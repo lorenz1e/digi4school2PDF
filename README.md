@@ -1,6 +1,6 @@
 # Digi4School2PDF  
 
-**Convert Digi4School E-Books to PDF Files**  
+**Convert Digi4School e-books to PDF Files**  
 
 **[📥 Download here](https://github.com/lorenz1e/digi4school2PDF/raw/refs/heads/main/digi4school2PDF.exe) or grab it from the repository**
 
